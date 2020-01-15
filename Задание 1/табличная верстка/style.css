@@ -1,0 +1,32 @@
+.table1 {
+    position: absolute;
+    height: 85%;
+    width : 100%; 
+    top: 0;
+    left: 0;  
+}
+.one {
+    background-color:#7B68EE;
+    height: 15%;
+}
+.two {
+    background-color:#A52A2A;
+    height: 50%;
+}
+.three {
+    background-color:#00FFFF;
+}
+.four {
+    background-color:#696969;
+    width: 25%;
+}
+.table2 {
+    position: absolute;
+    bottom: 20px;
+    height: 15%;
+    width : 100%;
+    left: 0;
+    right: 0;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}

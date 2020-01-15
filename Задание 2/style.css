@@ -1,0 +1,35 @@
+.container {
+    position: absolute;
+    width: 98%;
+    height: 98%;
+    top: 0;
+    left: 0;
+    border-left: 1em solid black;
+    border-right: 1em solid black;
+    border-top: 1ex solid black;
+    border-bottom: 1ex solid black;
+}
+
+
+.block1 {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+.block3 {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color:blue;
+    top: 50%;
+    left: 50%;
+}
+.block2 {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    background-color: greenyellow;
+    left: 25%;
+    top: 25%;
+}
